@@ -1,0 +1,5 @@
+pandas
+plotly.express
+scikit-learn
+ipykernel
+nbformat == 4.2.0
